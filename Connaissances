@@ -1,0 +1,56 @@
+<! DOCTYPE html>
+<html>
+    <head>
+        <title> Apprendre Html</title>
+    </head>
+    <body style="background-color: powderblue;">
+      <h1 style="color: brown; border: 2px solid blue;"> JAYSON STANLEY</h1>
+      <h2 style="background-color: red;"> Mes debuts sur Html</h2>
+      <h style="background-color: yellow;"> Les Styles</h>
+      <p> pour la couleur des bordures c'est border:2px solid couleur</p>
+      <p> Pour l'arriere plan c'est background-color</p>
+      <p style="color:green;"> pour la couleur des lettres c'est color</p>
+      <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> pour la police c'est font-family </p>
+      <p style="font-size:160%;">pour la taille du texte</p>
+      <p>pour l'alignement horizontal du texte c'est text-align</p>
+      <p style="text-align: center;"> passons au titre suivant</p>
+       <h style="background-color: darkgray;"> retouches du texte (formatage)</h>
+      <p> b met le texte en gras</p>
+      <b>exemple</b>
+      <p> strong donne une importance particuliere au texte</p>
+      <strong> Jayson</strong>
+      <p> i met le texte en italique</p>
+      <i> ce texte doit etre en italique</i>
+      <p> em souligne le texte</p>
+      <em> texte souligné</em>
+      <p> small pour definir un texte <small>plus petit</small></p>
+      <p> mark permet de <mark> marquer</mark> un texte</p>
+      <p> del permet de supprimer un texte</p>
+      <p> ins permet d'inserer un texte</p>
+      <p> sub pour le texte en indice <sub>xxxxxx</sub></p>
+      <p> sup pour le texte en exposant <sup>alpha</sup></p>
+      <h style="background-color: black;"> citation HTML</h>
+      <p> blockquote cite permet de definir une longue citation</p>
+      <p> q pour les petite citations</p>
+      <p> comme un grand sage a dit <q> nul ne peut chier sans picer</q> c'est de ca qu'il s'agit</p>
+      <P> abbr pour les abreviations</P>
+      <p> <abbr title="Appareil Volant Immitant Oiseau Naturel">AVION</abbr> permet de voler</p>
+      <p> la balise address definit les informations de quelqu'un</p>
+      <address>
+        Ecrit par Jayson Stanley <br>
+        Email: jaysondjemsjayson@gmail.com <br>
+        vie a Nkolmesseng
+      </address>
+      <p> cite permet de definir le titre d'une oeuvre</p>
+      <p> bdo permet d'inverser l'ordre des mots d'un texte</p>
+      <p> le plus important <bdo dir="rtl"> tu dois etre le meilleur</bdo></p>
+      <h style="background-color: blueviolet;"> commentaires html</h>
+      <p> pour les commentaires ont a le !--</p>
+      <!-- retenir toutes les lignes du haut-->
+      <p> les couleurs peuvent egalement etre specifiees par les valeurs RVB(nombre),hexa(#lettres et nombres),hls(pourcentage)</p>
+      <p style="color: rgb(70, 50, 100);"> changement de couleur</p>
+      <h> style="background-color: darkolivegreen;"> HTML-css</h>
+      <p> </p>
+
+</body>
+</html>
